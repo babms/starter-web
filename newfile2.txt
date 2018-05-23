@@ -1,0 +1,1 @@
+2nd new file to check if git add alone adds the file to git tracked files
