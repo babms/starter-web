@@ -13,3 +13,7 @@ Sample website with plenty of files for demos
 ## Deployment
 
 ## more info
+
+## use cases
+
+## conclusion
