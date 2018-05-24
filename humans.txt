@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    babms -- l2 dev -- <tweet>
 
 # THANKS
 
