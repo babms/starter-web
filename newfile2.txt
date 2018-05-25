@@ -1,2 +1,4 @@
 2nd new file to check if git add alone adds the file to git tracked files
-To check how only git pull works with out --rebase
+To check how only git pull works with out --rebasue
+
+now to see how git pull --rebase works
