@@ -3,6 +3,7 @@
 This repository is for showing how Git and GitHub work
 
 NEW line to see rebase
+stashing untracked files
 
 ## Introduction
 
