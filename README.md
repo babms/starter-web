@@ -7,7 +7,7 @@ NEW line to see rebase
 ## Introduction
 
 ## copy right
-
+All rights reservered
 ## Purpose
 
 Sample website with plenty of files for demos
